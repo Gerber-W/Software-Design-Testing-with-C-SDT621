@@ -1,0 +1,14 @@
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\bin\Debug\net8.0-windows\Question3.exe
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\bin\Debug\net8.0-windows\Question3.deps.json
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\bin\Debug\net8.0-windows\Question3.runtimeconfig.json
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\bin\Debug\net8.0-windows\Question3.dll
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\bin\Debug\net8.0-windows\Question3.pdb
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.AssemblyInfoInputs.cache
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.AssemblyInfo.cs
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.csproj.CoreCompileInputs.cache
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.dll
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\refint\Question3.dll
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.pdb
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\Question3.genruntimeconfig.cache
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question3\obj\Debug\net8.0-windows\ref\Question3.dll
