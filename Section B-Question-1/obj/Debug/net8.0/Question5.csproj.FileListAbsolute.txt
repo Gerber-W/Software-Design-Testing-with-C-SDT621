@@ -1,0 +1,14 @@
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\bin\Debug\net8.0\Question5.exe
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\bin\Debug\net8.0\Question5.deps.json
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\bin\Debug\net8.0\Question5.runtimeconfig.json
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\bin\Debug\net8.0\Question5.dll
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\bin\Debug\net8.0\Question5.pdb
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.AssemblyInfoInputs.cache
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.AssemblyInfo.cs
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.csproj.CoreCompileInputs.cache
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.dll
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\refint\Question5.dll
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.pdb
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\Question5.genruntimeconfig.cache
+c:\Users\wgerb\Desktop\SDT-621-FA1\Question5\obj\Debug\net8.0\ref\Question5.dll
